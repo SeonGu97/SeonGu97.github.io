@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d746"],{f820:function(n,e,c){"use strict";c.r(e);var t=c("7a23"),u={class:"about"},d=Object(t["e"])("p",null,"현재 이 웹사이트는 Vue3로 작성이 되었습니다.",-1),a=[d];function o(n,e,c,d,o,r){return Object(t["q"])(),Object(t["d"])("div",u,a)}var r={},s=c("6b0d"),b=c.n(s);const i=b()(r,[["render",o]]);e["default"]=i}}]);
+//# sourceMappingURL=chunk-2d22d746.8052b36e.js.map
